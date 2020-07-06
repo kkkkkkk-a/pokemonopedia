@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pokemonpedia"
+    }
+  },
+  "defaultProject": "pokemonpedia",
+  "cli": {
+    "analytics": "00868d32-e8e9-4d50-bdd2-fcc1079263ab"
+  }
 }
